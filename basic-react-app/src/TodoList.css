@@ -1,0 +1,18 @@
+button{
+    background-color: orange;
+    border: 5 px solid orange;
+    border-radius: 50%;
+}
+body{
+    background-color: purple;
+}
+input{
+    background-color: aqua;
+    
+}
+hr{
+    border: 5px solid black;
+}
+li{
+    color: brown;
+}
